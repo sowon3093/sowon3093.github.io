@@ -3,7 +3,7 @@ layout: post
 title: 짝수와 홀수
 categories: CodingTest
 author: Sowon Park
-tags: [programers,codingTest]
+tags: [programers,codingTest,C]
 date: 2021-11-14 07:41 +0800
 ---
 ## 정수 num이 짝수일 경우 "Even"을 반환하고 홀수인 경우 "Odd"를 반환하는 함수, solution을 완성해주세요.
