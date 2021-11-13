@@ -1,6 +1,6 @@
 ---
 layout: archive-taxonomies
-permalink: /categories/
-title: Categories
+permalink: /codingtest/
+title: Codingtest
 type: categories
 ---
