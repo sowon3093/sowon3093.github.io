@@ -2,10 +2,10 @@
 title: Sowon blog
 description: 차근차근
 url: https://sowon3093.github.io
-avatar: /avatar.jpeg
+avatar: /img/photo.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpg
+cover_image: /img/bg.jpg
 
 # Gems
 plugins:
