@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
+title: Sowon blog
 description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+url: https://sowon3093.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
-  card: summary
+  username:
+  card: 
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Sowon Park
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/
+    - https://github.com/sowon3093
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Sowon Park
+  url: https://sowon3093.com/vszhub/
+  email: sowon3093@naver.com
