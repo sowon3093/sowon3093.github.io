@@ -20,14 +20,14 @@ char* solution(int num) {
     // 리턴할 값은 메모리를 동적 할당해주세요
     char* answer = (char*)malloc(sizeof(char)*num);
     if (num%2!=0)   answer = "Odd"; 
-	  //num이 2로 나누어 떨어지지 않으면 홀수이므로 answer에 "Odd" 값 할당
+    // num이 2로 나누어 떨어지지 않으면 홀수이므로 answer에 "Odd" 값 할당
     else            answer = "Even";
     return answer;
 }
 
 int main(){
     printf("%s",solution(3));
-	  // "Odd"
+    // "Odd"
     return 0;
 }
 ```
