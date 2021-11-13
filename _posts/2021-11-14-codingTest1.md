@@ -10,7 +10,7 @@ date: 2021-11-14 07:41 +0800
 **제한 조건**
 > num은 int 범위의 정수입니다.  
 > 0은 짝수입니다.  
->   
+
 ```c
 #include <stdio.h>
 #include <stdbool.h>
