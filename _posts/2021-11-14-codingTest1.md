@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 짝수와 홀수
-categories: 프로그래머스 코테
+categories: 프로그래머스
 author: Sowon Park
 tags: [programers,codingTest,C]
 date: 2021-11-14 07:41 +0800
