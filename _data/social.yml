@@ -1,9 +1,9 @@
 - title: Email
   url: mailto://sowon3093@naver.com
   icon: fas fa-envelope
-- title: Twitter
-  url: 
-  icon: fab fa-twitter
+#- title: Twitter
+#  url: 
+#  icon: fab fa-twitter
 - title: GitHub
   url: https://github.com/sowon3093/sowon3093
   icon: fab fa-github
