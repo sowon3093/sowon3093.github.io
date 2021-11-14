@@ -7,3 +7,7 @@
 #- type: tags
 #  title: Tags
 #  url: /tags/
+- type: note
+  title: 개발노트
+  url: /note/
+  
